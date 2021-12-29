@@ -1,0 +1,6 @@
+STL stands for Standered Template Liebrary
+
+STL contains theree components:
+1. Container: Store data
+2. Iterator: Walk in Container
+3. Algorithm: do some stuff with container like sorting, searching, reversing
